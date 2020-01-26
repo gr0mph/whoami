@@ -9,6 +9,10 @@ https://scratch.mit.edu/users/Gromph/
 
 https://stackoverflow.com/users/5569333/gromph
 
+'My profile on CodingGame'
+
+https://www.codingame.com/profile/5d62fb2273bfa02624019f3a1ac6134f0949533
+
 Known Software
 ==============
 
@@ -22,3 +26,4 @@ Tools
 =====
 
 FreeRTOS, ROS, Docker
+
